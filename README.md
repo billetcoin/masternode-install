@@ -25,13 +25,13 @@
 2. With this command you will make masternode-install.sh executable.  
 `sudo chmod +x masternode-install.sh` <br>
 
-•For Ubuntu 18.04+ use this:
+- For Ubuntu 18.04+ use this:
 
-sudo chmod +x masternode-install-ubuntu-0.18.sh <br>
+`sudo chmod +x masternode-install-ubuntu-0.18.sh` <br>
 
 3. Now install your masternode.  
 `./masternode-install.sh`
 
-•For Ubuntu 18.04+ use this to install masternode:
+- For Ubuntu 18.04+ use this to install masternode:
 
-```./masternode-install-ubuntu-0.18.sh```
+`./masternode-install-ubuntu-0.18.sh`
