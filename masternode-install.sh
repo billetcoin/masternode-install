@@ -9,7 +9,7 @@ COIN_PATH='/usr/local/bin/'
 COIN_TGZ='https://github.com/billetcoin/blt/releases/download/1.0.0/billetcoin-v1.0.0-daemon-linux.tar.gz'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 COIN_NAME='billetcoind'
-COIN_EXPLORER='http://explorer.billetcoin.com'
+COIN_EXPLORER='https://www.coinbillet.com/'
 COIN_PORT=30145
 RPC_PORT=30144
 
