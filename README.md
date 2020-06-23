@@ -10,7 +10,7 @@
 
 2. Download your Local Wallet: https://github.com/billetcoin/blt/releases
 
-•You can see daily income and collateral info here: https://masternodes.online/currencies/BLT/
+- You can see daily income and collateral info here: https://masternodes.online/currencies/BLT/
 
 
 3. You will need also VPS with Ubuntu 16.04, 18.04 , 19.04
@@ -26,12 +26,10 @@
 `sudo chmod +x masternode-install.sh` <br>
 
 - For Ubuntu 18.04+ use this:
-
 `sudo chmod +x masternode-install-ubuntu-0.18.sh` <br>
 
 3. Now install your masternode.  
 `./masternode-install.sh`
 
 - For Ubuntu 18.04+ use this to install masternode:
-
 `./masternode-install-ubuntu-0.18.sh`
